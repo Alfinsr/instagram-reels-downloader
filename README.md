@@ -1,7 +1,5 @@
 # Bulk Instagram Reels Downloader
 
-**Created by [Alfinsr](https://github.com/Alfinsr)**
-
 <p align="center">
   <img src="ss.png" alt="Bulk Instagram Reels Downloader" width="800">
 </p>
