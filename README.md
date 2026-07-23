@@ -2,7 +2,9 @@
 
 **Created by [Alfinsr](https://github.com/Alfinsr)**
 
-Script CLI untuk mendownload Instagram Reels secara massal (bulk) maupun satuan dengan tampilan yang rapi dan modern.
+<p align="center">
+  <img src="ss.png" alt="Bulk Instagram Reels Downloader" width="800">
+</p>
 
 ---
 
